@@ -55,3 +55,19 @@ To build strong DSA fundamentals and maintain consistent coding practice for sof
 **Arpit Pundir**  
 B.Tech CSE, AKGEC  
 2024–2028
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+<!---LeetCode Topics End-->
