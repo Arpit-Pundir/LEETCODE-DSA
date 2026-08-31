@@ -70,4 +70,12 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
