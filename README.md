@@ -102,4 +102,16 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
