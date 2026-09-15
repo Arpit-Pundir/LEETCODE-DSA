@@ -93,6 +93,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,9 +134,14 @@ B.Tech CSE, AKGEC
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
