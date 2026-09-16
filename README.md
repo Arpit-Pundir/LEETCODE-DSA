@@ -94,6 +94,7 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
