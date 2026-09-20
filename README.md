@@ -154,4 +154,12 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
