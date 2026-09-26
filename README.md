@@ -66,6 +66,7 @@ B.Tech CSE, AKGEC
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
@@ -153,6 +154,7 @@ B.Tech CSE, AKGEC
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
