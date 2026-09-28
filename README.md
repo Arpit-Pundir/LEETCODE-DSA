@@ -119,6 +119,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +169,7 @@ B.Tech CSE, AKGEC
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -187,4 +189,8 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
