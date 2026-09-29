@@ -68,6 +68,7 @@ B.Tech CSE, AKGEC
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@ B.Tech CSE, AKGEC
 ## Dynamic Programming
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
@@ -193,4 +195,9 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
