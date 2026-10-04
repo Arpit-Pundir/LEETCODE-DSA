@@ -123,6 +123,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -177,6 +178,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -188,6 +190,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -204,6 +207,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -244,4 +248,8 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
