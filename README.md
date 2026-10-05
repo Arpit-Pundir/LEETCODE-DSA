@@ -68,6 +68,7 @@ B.Tech CSE, AKGEC
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -80,11 +81,13 @@ B.Tech CSE, AKGEC
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
