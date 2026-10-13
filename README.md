@@ -65,6 +65,7 @@ B.Tech CSE, AKGEC
 | [0027-remove-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
@@ -119,6 +120,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
