@@ -69,6 +69,7 @@ B.Tech CSE, AKGEC
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -244,10 +246,12 @@ B.Tech CSE, AKGEC
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -270,4 +274,8 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
