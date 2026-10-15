@@ -125,6 +125,7 @@ B.Tech CSE, AKGEC
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0507-perfect-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
