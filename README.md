@@ -74,6 +74,7 @@ B.Tech CSE, AKGEC
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0485-max-consecutive-ones) |
 | [0819-most-common-word](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
