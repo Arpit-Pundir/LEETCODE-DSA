@@ -127,6 +127,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
