@@ -68,6 +68,7 @@ B.Tech CSE, AKGEC
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0204-count-primes) |
@@ -227,6 +228,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
