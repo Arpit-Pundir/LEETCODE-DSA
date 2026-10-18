@@ -61,6 +61,7 @@ B.Tech CSE, AKGEC
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -141,6 +142,7 @@ B.Tech CSE, AKGEC
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
