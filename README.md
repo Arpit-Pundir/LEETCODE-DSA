@@ -70,6 +70,7 @@ B.Tech CSE, AKGEC
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0204-count-primes) |
@@ -104,6 +105,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
@@ -147,6 +149,7 @@ B.Tech CSE, AKGEC
 | [0001-two-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0290-word-pattern) |
 | [0819-most-common-word](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0819-most-common-word) |
@@ -272,6 +275,7 @@ B.Tech CSE, AKGEC
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -294,6 +298,7 @@ B.Tech CSE, AKGEC
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -329,4 +334,8 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
