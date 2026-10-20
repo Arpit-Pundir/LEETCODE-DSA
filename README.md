@@ -87,6 +87,7 @@ B.Tech CSE, AKGEC
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
@@ -102,6 +103,7 @@ B.Tech CSE, AKGEC
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ B.Tech CSE, AKGEC
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
