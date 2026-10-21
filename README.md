@@ -66,6 +66,7 @@ B.Tech CSE, AKGEC
 | [0027-remove-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
@@ -234,6 +235,7 @@ B.Tech CSE, AKGEC
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -266,6 +268,7 @@ B.Tech CSE, AKGEC
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
