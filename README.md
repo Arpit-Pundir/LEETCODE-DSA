@@ -71,6 +71,7 @@ B.Tech CSE, AKGEC
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
@@ -244,6 +245,7 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
