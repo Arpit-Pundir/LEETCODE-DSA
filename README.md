@@ -66,6 +66,7 @@ B.Tech CSE, AKGEC
 | [0027-remove-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -141,6 +142,7 @@ B.Tech CSE, AKGEC
 | [0002-add-two-numbers](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
@@ -272,6 +274,7 @@ B.Tech CSE, AKGEC
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
