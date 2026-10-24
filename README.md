@@ -69,6 +69,7 @@ B.Tech CSE, AKGEC
 | [0048-rotate-image](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ B.Tech CSE, AKGEC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
@@ -276,6 +278,7 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0048-rotate-image](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
