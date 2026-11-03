@@ -100,6 +100,7 @@ B.Tech CSE, AKGEC
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ B.Tech CSE, AKGEC
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0507-perfect-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
