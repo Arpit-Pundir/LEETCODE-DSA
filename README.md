@@ -95,6 +95,7 @@ B.Tech CSE, AKGEC
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -117,6 +118,7 @@ B.Tech CSE, AKGEC
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@ B.Tech CSE, AKGEC
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
@@ -230,6 +233,7 @@ B.Tech CSE, AKGEC
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
