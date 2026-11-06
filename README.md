@@ -77,6 +77,7 @@ B.Tech CSE, AKGEC
 | [0088-merge-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
@@ -172,6 +173,7 @@ B.Tech CSE, AKGEC
 | ------- |
 | [0001-two-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0169-majority-element) |
@@ -310,6 +312,7 @@ B.Tech CSE, AKGEC
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
