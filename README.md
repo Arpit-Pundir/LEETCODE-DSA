@@ -91,6 +91,7 @@ B.Tech CSE, AKGEC
 | [0485-max-consecutive-ones](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -234,6 +235,7 @@ B.Tech CSE, AKGEC
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
