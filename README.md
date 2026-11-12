@@ -105,6 +105,7 @@ B.Tech CSE, AKGEC
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
