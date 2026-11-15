@@ -101,6 +101,7 @@ B.Tech CSE, AKGEC
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -173,6 +174,7 @@ B.Tech CSE, AKGEC
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0507-perfect-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -285,6 +287,7 @@ B.Tech CSE, AKGEC
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -299,6 +302,7 @@ B.Tech CSE, AKGEC
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
