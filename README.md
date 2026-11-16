@@ -270,12 +270,14 @@ B.Tech CSE, AKGEC
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
