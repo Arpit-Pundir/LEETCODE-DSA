@@ -99,6 +99,7 @@ B.Tech CSE, AKGEC
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -174,6 +175,7 @@ B.Tech CSE, AKGEC
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
