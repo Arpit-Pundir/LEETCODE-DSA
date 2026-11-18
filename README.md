@@ -91,6 +91,7 @@ B.Tech CSE, AKGEC
 | [0229-majority-element-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +192,7 @@ B.Tech CSE, AKGEC
 | [0229-majority-element-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0819-most-common-word) |
