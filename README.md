@@ -92,6 +92,7 @@ B.Tech CSE, AKGEC
 | [0229-majority-element-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -130,6 +131,7 @@ B.Tech CSE, AKGEC
 | [0189-rotate-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,6 +144,7 @@ B.Tech CSE, AKGEC
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -194,6 +197,7 @@ B.Tech CSE, AKGEC
 | [0229-majority-element-ii](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0525-contiguous-array) |
@@ -251,6 +255,7 @@ B.Tech CSE, AKGEC
 | [0209-minimum-size-subarray-sum](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Arpit-Pundir/LEETCODE-DSA/tree/master/0704-binary-search) |
